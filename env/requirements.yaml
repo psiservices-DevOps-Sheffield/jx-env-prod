@@ -14,9 +14,6 @@ dependencies:
 - name: eas-payeezy-ws
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.115
-- name: eas-selt-financial-document
-  repository: http://jenkins-x-chartmuseum:8080
-  version: 6.0.29
 - name: eas-selt-ovp-service
   repository: http://jenkins-x-chartmuseum:8080
   version: 1.1.34
