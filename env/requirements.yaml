@@ -5,11 +5,11 @@ dependencies:
 - name: eas-selt-web
   repository: https://chartmuseum-jx.psiac.net
   version: 1.0.310
-- name: exposecontroller
-  version: 2.3.118
-  repository: http://chartmuseum.jenkins-x.io
-  alias: expose
-- name: exposecontroller
-  version: 2.3.118
-  repository: http://chartmuseum.jenkins-x.io
-  alias: cleanup
+#- name: exposecontroller
+#  version: 2.3.118
+#  repository: http://chartmuseum.jenkins-x.io
+#  alias: expose
+#- name: exposecontroller
+#  version: 2.3.118
+#  repository: http://chartmuseum.jenkins-x.io
+#  alias: cleanup
